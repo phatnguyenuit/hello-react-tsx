@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hello-react-tsx/static/css/main.dfca195d.chunk.css",
+    "main.js": "/hello-react-tsx/static/js/main.3da8a33a.chunk.js",
+    "main.js.map": "/hello-react-tsx/static/js/main.3da8a33a.chunk.js.map",
+    "runtime-main.js": "/hello-react-tsx/static/js/runtime-main.48598004.js",
+    "runtime-main.js.map": "/hello-react-tsx/static/js/runtime-main.48598004.js.map",
+    "static/js/2.600a7e5b.chunk.js": "/hello-react-tsx/static/js/2.600a7e5b.chunk.js",
+    "static/js/2.600a7e5b.chunk.js.map": "/hello-react-tsx/static/js/2.600a7e5b.chunk.js.map",
+    "index.html": "/hello-react-tsx/index.html",
+    "precache-manifest.b13ec0035034b1744d339ff2db7f748d.js": "/hello-react-tsx/precache-manifest.b13ec0035034b1744d339ff2db7f748d.js",
+    "service-worker.js": "/hello-react-tsx/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/hello-react-tsx/static/css/main.dfca195d.chunk.css.map",
+    "static/media/logo.svg": "/hello-react-tsx/static/media/logo.25bf045c.svg"
+  }
+}
