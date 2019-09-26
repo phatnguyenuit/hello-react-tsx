@@ -2,6 +2,11 @@
   "name": "hello-react-tsx",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://phatnguyenuit.github.io/hello-react-tsx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phatnguyenuit/hello-react-tsx.git"
+  },
   "dependencies": {
     "@types/jest": "24.0.18",
     "@types/node": "12.7.8",
@@ -17,6 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "pretty": "prettier --write --only-changed \"src/**/*.[jt]sx?\"",
     "lint": "tsc --noEmit && eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
   },
@@ -42,6 +49,7 @@
     "eslint-config-prettier": "^6.3.0",
     "eslint-plugin-prettier": "^3.1.1",
     "eslint-plugin-react": "^7.14.3",
+    "gh-pages": "^2.1.1",
     "husky": "^3.0.5",
     "lint-staged": "^9.4.0",
     "prettier": "^1.18.2"
